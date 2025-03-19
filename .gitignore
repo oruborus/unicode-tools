@@ -1,0 +1,5 @@
+/.phpunit/
+/.vscode/
+/vendor/
+/UCD/
+infection.html

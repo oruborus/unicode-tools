@@ -1,0 +1,9 @@
+parameters:
+    level: 10
+    paths:
+        - bin
+        - src
+        - tests
+
+includes:
+    - phar://phpstan.phar/conf/bleedingEdge.neon
